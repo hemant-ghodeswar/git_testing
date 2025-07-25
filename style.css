@@ -4,3 +4,9 @@ h1{
     justify-content: center;
 
 }
+h2{
+    color: red;
+    display: flex;
+    justify-content: center;
+
+}
